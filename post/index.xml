@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on Golang Lithuania community </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://golang-lt.github.io/post/</link>
+    <language>en-us</language>
+    
+    <copyright>2014-2016 golang-lt community, all rights reserved.</copyright>
+    <updated>Sat, 14 Jan 2017 11:27:16 EET</updated>
+    
+      
+      <item>
+        <title>Opening 2017 GO meetup</title>
+        <link>http://golang-lt.github.io/post/meetup-2017-01-25/</link>
+        <pubDate>Sat, 14 Jan 2017 11:27:16 EET</pubDate>
+        
+        <guid>http://golang-lt.github.io/post/meetup-2017-01-25/</guid>
+        <description>
+
+&lt;p&gt;New year, new meetup! (probably not the best slogan though)&lt;/p&gt;
+
+&lt;h2 id=&#34;venue&#34;&gt;Venue&lt;/h2&gt;
+
+&lt;p&gt;The event will be on &lt;strong&gt;Jan 25-th at Lvovo g. 25, Vilnius&lt;/strong&gt;
+- Business center &amp;ldquo;Burės&amp;rdquo;, 8th floor. See you at &lt;strong&gt;07:00 PM&lt;/strong&gt;. &lt;a href=&#34;https://www.meetup.com/Vilnius-Golang/events/236838814/&#34;&gt;meetup.com
+  reference&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Elevators might be locked after 5PM. Call +37060117345 (Povilas)
+if you&amp;rsquo;ll face any problems reaching the place.&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Gediminas Morkevicius - &lt;strong&gt;&amp;ldquo;Intro to GO performance&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Povilas Versockas - &lt;strong&gt;&amp;ldquo;Advanced Testing with Go&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Jonas A - &lt;strong&gt;&amp;ldquo;Go and Plan 9&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Intro to GO performance&lt;/strong&gt; - Going through a simple web server implementation performance details and demonstration&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advanced Testing with Go&lt;/strong&gt; - NA&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Go and Plan 9&lt;/strong&gt; - I will talk about the relationship between the Plan 9 operating system and the Go programming language. They share many common ideas, which is not so surprising given common developers, e.g. Rob Pike, Ken Thompson and Russ Cox. I also will also show how to crosscompile the toolchain to run under Plan 9 on Rasberry Pi.&lt;/p&gt;
+
+
+&lt;figure class=&#34;gophers&#34;&gt;
+    
+        &lt;img src=&#34;http://golang-lt.github.io/posts/vim-go.png&#34;  /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Super ViM Gopher&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;See you there!&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>GO 1.7 celebration meetup</title>
+        <link>http://golang-lt.github.io/post/go17-celebration-meetup/</link>
+        <pubDate>Thu, 18 Aug 2016 11:27:16 &#43;0200</pubDate>
+        
+        <guid>http://golang-lt.github.io/post/go17-celebration-meetup/</guid>
+        <description>
+
+&lt;p&gt;Hi all gophers in Lithuania!&lt;/p&gt;
+
+&lt;p&gt;As far as &lt;strong&gt;GO&lt;/strong&gt; improves it&amp;rsquo;s performance, compilation speed and GC - we grow
+our GO community here in Lithuania.&lt;/p&gt;
+
+&lt;h2 id=&#34;venue&#34;&gt;Venue&lt;/h2&gt;
+
+&lt;p&gt;The event will be on &lt;strong&gt;September 22-th at Lvovo g. 25, Vilnius&lt;/strong&gt; - Business center &amp;ldquo;Burės&amp;rdquo;, 8th floor.
+See you at &lt;strong&gt;07:00 PM&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Elevators might be locked after 5PM. Call +37060117345 (Povilas)
+if you&amp;rsquo;ll face any problems reaching the place.&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Osvaldas Grigas - &lt;strong&gt;&amp;ldquo;Communicating Sequential Processes&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Gediminas Morkevicius - &lt;strong&gt;&amp;ldquo;Acceptance and integration testing with godog&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Vytautas Šaltenis - &lt;strong&gt;&amp;ldquo;Profiling Go Programs: A Case Study&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Communicating Sequential Processes&lt;/em&gt; - CSP&amp;rsquo;s parallel programming model has strongly influenced Go,
+Clojure and other languages. Let&amp;rsquo;s take a look at the original 1978 &lt;a href=&#34;http://spinroot.com/courses/summer/Papers/hoare_1978.pdf&#34;&gt;CSP paper by Tony Hoare&lt;/a&gt;,
+including a bit of history and elegant solutions to hard concurrency problems.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Acceptance and integration testing with godog&lt;/em&gt; - Behavior driven development (BDD) framework for golang.
+Godog is cucumber implementation for GO.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Profiling Go Programs: A Case Study&lt;/em&gt; - Learn to use go-torch to grok your
+code. Highlights from my efforts to tune one library&amp;rsquo;s performance. Real code,
+no synthetic examples.&lt;/p&gt;
+
+
+&lt;figure class=&#34;gophers&#34;&gt;
+    
+        &lt;img src=&#34;http://golang-lt.github.io/posts/1.6-release-party/fancygopher.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Gopher 1.7 celebration meetup&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>GO 1.6 release party meetup</title>
+        <link>http://golang-lt.github.io/post/go16-release-party-meetup/</link>
+        <pubDate>Mon, 08 Feb 2016 11:27:16 EET</pubDate>
+        
+        <guid>http://golang-lt.github.io/post/go16-release-party-meetup/</guid>
+        <description>
+
+&lt;p&gt;Hi all gophers in Lithuania!&lt;/p&gt;
+
+&lt;p&gt;As we all probably have heard about &lt;strong&gt;1.6&lt;/strong&gt; release of &lt;strong&gt;go&lt;/strong&gt; coming soon on February. Some of our
+dear gopher friends decided to throw a warm welcome with a few talks.&lt;/p&gt;
+
+&lt;h2 id=&#34;venue&#34;&gt;Venue&lt;/h2&gt;
+
+&lt;p&gt;The event will be on &lt;strong&gt;February 17-th at VU MIF, Naugarduko st. 24&lt;/strong&gt; auditorium &lt;strong&gt;203&lt;/strong&gt; at &lt;strong&gt;18:30&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;The schedule is also being discussed, you can track the &lt;a href=&#34;https://github.com/vilniusgolang/website/issues/4#issuecomment-181098729&#34;&gt;discussion&lt;/a&gt;
+on github.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Gediminas Morkevicius - &lt;strong&gt;&amp;ldquo;Acceptance and integration testing with GO&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Justinas Stankevičius - &lt;strong&gt;&amp;ldquo;What’s new in Go 1.6&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Acceptance and integration testing with GO&lt;/em&gt; - Behavior driven development (BDD) testing and tools for golang.
+Why should you care about it?&lt;/p&gt;
+
+
+&lt;figure class=&#34;gophers&#34;&gt;
+    
+        &lt;img src=&#34;http://golang-lt.github.io/posts/1.6-release-party/fancygopher.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Gopher 1.6 release party&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Sveiki gopheriai!</title>
+        <link>http://golang-lt.github.io/post/hello-meetup-in-kaunas/</link>
+        <pubDate>Mon, 02 Nov 2015 21:27:16 EET</pubDate>
+        
+        <guid>http://golang-lt.github.io/post/hello-meetup-in-kaunas/</guid>
+        <description>
+
+&lt;p&gt;Sveiki gopheriai!&lt;/p&gt;
+
+
+&lt;figure class=&#34;gophers&#34;&gt;
+    
+        &lt;img src=&#34;http://golang-lt.github.io/posts/first-meetup/gophers-wrench.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Gopher meet-up&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Su džiaugsmu norime pranešti, kad rengiame pirmąjį gopherių meet-up’ą Kaune!&lt;/p&gt;
+
+&lt;p&gt;Tikimės tai padaryti kas mėnesiniu renginiu, suburiančių kuo daugiau &lt;strong&gt;Go&lt;/strong&gt; entuziastų.
+Žinoma laukiame visų, net ir pirmą kartą išgirdusių šią raidžių kombinaciją - su džiaugsmu
+supažindinsime su šia kalba visus besidominčius ir pagelbėsime visiems pradedantiesiems!
+Pristatysime jums porą pranešimų apie &lt;strong&gt;Go&lt;/strong&gt;, o diskusijas pratęsime trečiajame &amp;ldquo;Republic&amp;rdquo; bare.&lt;/p&gt;
+
+&lt;p&gt;Mokykimės ir tobulėkime kartu!&lt;/p&gt;
+
+&lt;h2 id=&#34;dėmesio&#34;&gt;Dėmesio&lt;/h2&gt;
+
+&lt;p&gt;Kada? &lt;strong&gt;2015 Lapkričio 26&lt;/strong&gt; dieną &lt;strong&gt;19:00&lt;/strong&gt; valandą.&lt;/p&gt;
+
+&lt;p&gt;Kur? &lt;strong&gt;A. Jakšto g. 6, Kaunas (Kolpingo kolegija)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;pranešimai&#34;&gt;Pranešimai&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Algirdas Matas - &lt;strong&gt;&amp;ldquo;Past, present and future(of Go)&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Gediminas Morkevičius - &lt;strong&gt;&amp;ldquo;You do not need a framework.&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Past, present and future(of Go)&lt;/em&gt; - Ir kam gi reikalinga dar viena programavimo kalba?
+Kas yra ir kam naudingas Go? Nuo ko man pradėti?
+Šitie ir kiti jums rūpimi klausimai bus atsakyti.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You do not need a framework&lt;/em&gt; - jums pilnai užtenka &amp;ldquo;standard library&amp;rdquo;, kad neapsunkintumėte savęs
+įrankiais, kurie nuolat keičiasi ir nėra baigtiniai. Naudokite komponentus, o ne abstrakcijas.&lt;/p&gt;
+
+&lt;p&gt;Nori būti pranešėjas? Susisiek.&lt;/p&gt;
+
+&lt;h2 id=&#34;iki-kito-karto&#34;&gt;Iki kito karto ;)&lt;/h2&gt;
+
+
+&lt;figure class=&#34;gophers&#34;&gt;
+    
+        &lt;img src=&#34;http://golang-lt.github.io/posts/first-meetup/algis.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Algirdas speeks about past, present and future&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+
+&lt;figure class=&#34;gophers&#34;&gt;
+    
+        &lt;img src=&#34;http://golang-lt.github.io/posts/first-meetup/everyone.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Gophers are watching closely&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>#1 Vilnius Gophers meetup !</title>
+        <link>http://golang-lt.github.io/post/first-meetup/</link>
+        <pubDate>Wed, 23 Sep 2015 20:13:59 EEST</pubDate>
+        
+        <guid>http://golang-lt.github.io/post/first-meetup/</guid>
+        <description>
+
+&lt;h3 id=&#34;hey-gophers&#34;&gt;Hey Gophers !!&lt;/h3&gt;
+
+&lt;p&gt;Happy to announce first Vilnius Golang group gathering.&lt;/p&gt;
+
+&lt;p&gt;We have 3 speakers already if you have something to share you are more than welcome to join.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s form vibrant community where we can learn &amp;amp; share !&lt;/p&gt;
+
+&lt;h4 id=&#34;links&#34;&gt;Links:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/Vilnius-Golang/events/225531544&#34;&gt;Meetup.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;webcal://www.meetup.com/Vilnius-Golang/events/ical&#34;&gt;ICAL&lt;/a&gt; add to your calendar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Package version management - Ernestas Poškus &lt;a href=&#34;https://twitter.com/ernestas_poskus&#34;&gt;@ernestas_poskus&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;vendoring-revision-locking-dependency-management&#34;&gt;Vendoring, revision locking &amp;amp; dependency management.&lt;/h5&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ubuntu Juju - Domas Monkus &lt;a href=&#34;https://twitter.com/tasdomas&#34;&gt;@tasdomas&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;juju-is-a-open-source-solution-driven-orchestration-tool-from-ubuntu-that-helps-you-deploy-manage-and-scale-your-environments-on-any-cloud&#34;&gt;Juju is a open source, solution-driven orchestration tool from Ubuntu that helps you deploy, manage and scale your environments on any cloud.&lt;/h5&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Go build modes - Justinas Stankevičius &lt;a href=&#34;https://twitter.com/justinas&#34;&gt;@justinas&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;bringing-go-to-c-and-other-languages-building-and-using-shared-and-static-libraries&#34;&gt;Bringing Go to C and other languages: building and using shared and static libraries.&lt;/h5&gt;
+
+&lt;h3 id=&#34;where&#34;&gt;Where ?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Žirmūnų g. 70, 7 floor, Vilnius @ &lt;a href=&#34;http://vinted.com/&#34;&gt;Vinted HQ&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Map Link: &lt;a href=&#34;https://goo.gl/maps/ewrd6MNSgYp&#34;&gt;https://goo.gl/maps/ewrd6MNSgYp&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2304.466550178463!2d25.3026989!3d54.7190079!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd96b623e1da3f%3A0x53b5182e253003ab!2zxb1pcm3Fq27FsyBnLiA3MCwgVmlsbml1cyAwOTEzMywgTGl0aHVhbmlh!5e0!3m2!1sen!2sus!4v1443029133372&#34; width=&#34;600&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>Hello gophers</title>
+        <link>http://golang-lt.github.io/post/hello-gophers/</link>
+        <pubDate>Sun, 31 May 2015 14:00:02 EEST</pubDate>
+        
+        <guid>http://golang-lt.github.io/post/hello-gophers/</guid>
+        <description>&lt;p&gt;Writing with high hopes to form Golang programming language community in
+Lithuania. Would love to arrange frequent meetups to discuss code, best
+practices &amp;amp; experience.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+        <title>First gotalk in Kaunas PHP</title>
+        <link>http://golang-lt.github.io/post/first-gotalk-kaunas-php/</link>
+        <pubDate>Sun, 16 Nov 2014 11:27:16 EET</pubDate>
+        
+        <guid>http://golang-lt.github.io/post/first-gotalk-kaunas-php/</guid>
+        <description>
+
+&lt;p&gt;We will consider a birth of gophers.lt golang user group started in Kaunas PHP meetup, since the
+gotalk introducing the user group was held there.&lt;/p&gt;
+
+&lt;p&gt;The talk was an introduction to &lt;strong&gt;golang&lt;/strong&gt; and the main features: concurrency primitives, interfaces and composition.
+You can find it &lt;a href=&#34;http://gotalks.gediminasm.org/why-we-use-golang.slide&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;community&#34;&gt;Community&lt;/h4&gt;
+
+&lt;p&gt;So far we are only starting to organize an user group. And will post all upcomming events even if it&amp;rsquo;s only a beer meetup.
+Stay put and subscribe to the &lt;a href=&#34;http://golang-lt.github.io/index.xml&#34;&gt;RSS feed&lt;/a&gt;, join us on &lt;a href=&#34;https://www.facebook.com/groups/1417574098545230/&#34;&gt;facebook&lt;/a&gt; or
+subscribe to our &lt;a href=&#34;http://groups.google.com/group/golang-lithuania/subscribe&#34;&gt;mailing list&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;plans&#34;&gt;Plans&lt;/h4&gt;
+
+&lt;p&gt;We are planning to organize some events, give talks and based on the interest, maybe open a monthly conferences here in Kaunas
+DATA-DOG headquarters.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+  </channel>
+</rss>

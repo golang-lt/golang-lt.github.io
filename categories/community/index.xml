@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Community on Golang Lithuania community </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://golang-lt.github.io/categories/community/</link>
+    <language>en-us</language>
+    
+    <copyright>2014-2016 golang-lt community, all rights reserved.</copyright>
+    <updated>Wed, 23 Sep 2015 20:13:59 EEST</updated>
+    
+      
+      <item>
+        <title>#1 Vilnius Gophers meetup !</title>
+        <link>http://golang-lt.github.io/post/first-meetup/</link>
+        <pubDate>Wed, 23 Sep 2015 20:13:59 EEST</pubDate>
+        
+        <guid>http://golang-lt.github.io/post/first-meetup/</guid>
+        <description>
+
+&lt;h3 id=&#34;hey-gophers&#34;&gt;Hey Gophers !!&lt;/h3&gt;
+
+&lt;p&gt;Happy to announce first Vilnius Golang group gathering.&lt;/p&gt;
+
+&lt;p&gt;We have 3 speakers already if you have something to share you are more than welcome to join.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s form vibrant community where we can learn &amp;amp; share !&lt;/p&gt;
+
+&lt;h4 id=&#34;links&#34;&gt;Links:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.meetup.com/Vilnius-Golang/events/225531544&#34;&gt;Meetup.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;webcal://www.meetup.com/Vilnius-Golang/events/ical&#34;&gt;ICAL&lt;/a&gt; add to your calendar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;agenda&#34;&gt;Agenda&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Package version management - Ernestas Poškus &lt;a href=&#34;https://twitter.com/ernestas_poskus&#34;&gt;@ernestas_poskus&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;vendoring-revision-locking-dependency-management&#34;&gt;Vendoring, revision locking &amp;amp; dependency management.&lt;/h5&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ubuntu Juju - Domas Monkus &lt;a href=&#34;https://twitter.com/tasdomas&#34;&gt;@tasdomas&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;juju-is-a-open-source-solution-driven-orchestration-tool-from-ubuntu-that-helps-you-deploy-manage-and-scale-your-environments-on-any-cloud&#34;&gt;Juju is a open source, solution-driven orchestration tool from Ubuntu that helps you deploy, manage and scale your environments on any cloud.&lt;/h5&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Go build modes - Justinas Stankevičius &lt;a href=&#34;https://twitter.com/justinas&#34;&gt;@justinas&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;bringing-go-to-c-and-other-languages-building-and-using-shared-and-static-libraries&#34;&gt;Bringing Go to C and other languages: building and using shared and static libraries.&lt;/h5&gt;
+
+&lt;h3 id=&#34;where&#34;&gt;Where ?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Žirmūnų g. 70, 7 floor, Vilnius @ &lt;a href=&#34;http://vinted.com/&#34;&gt;Vinted HQ&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Map Link: &lt;a href=&#34;https://goo.gl/maps/ewrd6MNSgYp&#34;&gt;https://goo.gl/maps/ewrd6MNSgYp&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2304.466550178463!2d25.3026989!3d54.7190079!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd96b623e1da3f%3A0x53b5182e253003ab!2zxb1pcm3Fq27FsyBnLiA3MCwgVmlsbml1cyAwOTEzMywgTGl0aHVhbmlh!5e0!3m2!1sen!2sus!4v1443029133372&#34; width=&#34;600&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+      </item>
+      
+    
+  </channel>
+</rss>
